@@ -12,7 +12,7 @@ public class AssetsmanagerApplication {
 		int b=0;
 		int ab= a+b;
 		
-		int addition=ab;
+		int addition=abc;
 		
 		
 		SpringApplication.run(AssetsmanagerApplication.class, args);
