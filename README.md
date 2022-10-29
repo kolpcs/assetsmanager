@@ -1,3 +1,0 @@
-# assetmanager
-
-for office use
