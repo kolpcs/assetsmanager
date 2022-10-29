@@ -1,4 +1,4 @@
-package com.pcs.assetmanager;
+package com.pcits.assetsmanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
